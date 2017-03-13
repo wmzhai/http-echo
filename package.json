@@ -1,5 +1,5 @@
 {
-  "name": "http-trans",
+  "name": "http-echo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
